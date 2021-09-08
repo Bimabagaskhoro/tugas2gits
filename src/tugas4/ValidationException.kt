@@ -1,4 +1,4 @@
-package Tugas4
+package tugas4
 
 class ValidationException (message: String):Throwable(message){
 

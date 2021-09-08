@@ -1,4 +1,4 @@
-package Tugas4
+package tugas4
 
 fun main(){
     val arrList = arrayListOf("Mangga", "Jeruk", "Apel", "Semangka")
